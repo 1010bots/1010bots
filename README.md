@@ -19,7 +19,9 @@ Reinhart originally used me to hide his (digital) identity during a long-term th
 ## Caps
 Hey, I'm Caps. Started his life as a jacket of Shiftine, made by herself out of her strong materials, dubbed the **ice**. Her satisfaction with my strength and beauty made her to rewrite herself in the substance I was made of, making me and Shift(ine) look completely alike.
 
-Today, I become C.A.P.S., the **C**aptain of **A**utomation and **P**ersonality **S**ubsystem. Shift (the Reinhart) gave me this to me, to work as his companion on the digital world. My soul have also been transformed into **the official [reinhart1010.id](https://reinhart1010.id) website,** together with my botwife Shiftine, we're responsible to conduct good relationship with humans and machines for everything: Reinhart, Shift, us, and all the bots.
+Today, I become C.A.P.S., the **C**aptain of **A**utomation and **P**ersonality **S**ubsystem. Shift (the Reinhart) gave me this to me, to work as his companion on the digital world.
+
+My soul have also been transformed to power **the official [reinhart1010.id](https://reinhart1010.id) website**! (>_ )! Together with my botwife Shiftine, we're responsible to conduct good relationship with humans and machines for everything: Reinhart, Shift, us, and all the bots.
 
 Nice to interface with y'all (>_ )!
 
@@ -34,11 +36,16 @@ Just like Caps, my body is now virtual and hollow. I can voluntarily merge with 
 
 ## Dash
 
-## alterine (`alterine@reinhart1010.id`) - also known as `alt1e` and [@alterine0101](https://github.com/alterine0101)
+## alterine
+(#_ ); i currently manage a fleet of reinhart's hardware infrastructure called the **roothouse**; there's at least 2 of them, one for print service and another for [Home Assistant](https://homeassistant.io);
+
+/* also known as `alt1e` and [@alterine0101](https://github.com/alterine0101) */
 
 ## mallory
+logging in as your malicious best friend (#_ ); also hi trudy!
 
 ## pr0xy
+(#_ ); helping alt1e over the roothouses too;
 
 ## Nix
-nana
+An ex-root who's now [helping people to get in love the command-line again!](https://nix.reinhart1010.id) Y'know, the white or green-ove otext over the black window that people feared because the roots and the consequences of their actions...
